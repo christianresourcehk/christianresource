@@ -1,0 +1,15 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|26 Dec 2000 10:07:28 -0000
+vti_extenderversion:SR|4.0.2.3406
+vti_nexttolasttimemodified:TR|26 Dec 2000 10:07:28 -0000
+vti_author:SR|ho
+vti_nosourcecontrol:SR|True
+vti_modifiedby:SR|ho
+vti_timecreated:TR|26 Dec 2000 10:07:27 -0000
+vti_backlinkinfo:VX|
+vti_syncwith_server41.hypermart.net\:21/christianresource:TR|16 Jan 2001 15:15:52 -0000
+vti_syncofs_server41.hypermart.net\:21/christianresource:TW|01 Jan 2001 08:13:00 -0000
+vti_syncwith_server45.hypermart.net\:21:TR|16 Jan 2001 15:15:52 -0000
+vti_syncofs_server45.hypermart.net\:21:TW|15 Jan 2001 08:54:00 -0000
+vti_syncwith_christianresource.hypermart.net\:21/christianresource:TW|11 Mar 2003 10:36:06 -0000
+vti_syncofs_christianresource.hypermart.net\:21/christianresource:TW|17 Jan 2010 06:11:00 -0000

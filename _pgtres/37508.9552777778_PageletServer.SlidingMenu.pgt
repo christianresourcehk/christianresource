@@ -1,0 +1,30 @@
+========== Description Part Begin ==========
+Title = FP37508.9552777778
+ProgID = PageletServer.SlidingMenu
+LastUpdateTime = 37508.955277778
+PreviewPath = _pgtres/
+Description = 
+========== Description Part End ==========
+
+========== Parameter Part Begin ==========
+Version = 2.0
+Misc = 0,
+ApStyle = SlidingMenu,0,200,400,0,0,,0,0,0,,1,5,5,0,1,0,1,1,0,5,5,0,,,,1,Loading image...
+========== Parameter Part End ==========
+
+========== Resource Part Begin ==========
+Resource Number = 1
+slidmenutrial.class=C:\PROGRA~1\SOURCE~1\SOTHIN~1.0\=
+========== Resource Part End ==========
+
+========== HTML Part Begin ==========
+Segment Number = 1
+Segment Position = cursor
+<applet codebase="_pgtres/" code="slidmenutrial.class" align="baseline" width="200" height="400">
+	<param name="Notice" value="SlidingMenu2.0,CopyRight (c) 2001 SourceTec Software Co. Ltd,Unregistered">
+	<param name="ApStyle" value="000000,000000,,0,0,0,,1,5,5,0,1,160,0,5,050000,1,Loading image...">
+	<param name="Misc" value="0,">
+</applet>
+===== Segment End =====
+========== HTML Part End ==========
+
